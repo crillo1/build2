@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x474fADdd73b6ff260EFd281B4eb375a6FD7EA9bC",
+  "SCAN_LINK": "https://explorer.dogechain.dog/address/0x474fADdd73b6ff260EFd281B4eb375a6FD7EA9bC",
+  "NETWORK": {
+    "NAME": "Dogechain",
+    "SYMBOL": "wDOGE",
+    "ID": 2000
+  },
+  "NFT_NAME": "Dogechain Paws",
+  "SYMBOL": "DCP",
+  "MAX_SUPPLY": 3555,
+  "WEI_COST": 15000000000000000000,
+  "DISPLAY_COST": 15,
+  "GAS_LIMIT": 320000,
+  "MARKETPLACE": "Mantra",
+  "MARKETPLACE_LINK": "https://app.withmantra.com/",
+  "SHOW_BACKGROUND": true
+}
